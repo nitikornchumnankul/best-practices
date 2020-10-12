@@ -22,3 +22,6 @@
 ### Software Architech
 1. [Software Architecture: The Most Important Architectural Patterns You Need to Know](https://levelup.gitconnected.com/software-architecture-the-important-architectural-patterns-you-need-to-know-a1f5ea7e4e3d)
 ![](https://miro.medium.com/max/700/1*Ek-VfFxTMieiWXjQVur-iA.png)
+
+### System design
+1. [System Design Cheatsheet](https://gist.github.com/nitikornchumnankul/b9e3fab8272b92093d48dccd536d0a77)
