@@ -3,6 +3,8 @@
 ## Web Developer
 1. [So you want to be a full-stack developer? How to build a full-stack python web](https://speakerdeck.com/pycon2014/so-you-want-to-be-a-full-stack-developer-how-to-build-a-full-stack-python-web-application-by-kate-heddleston?slide=58)
 
+2. [Frontend Architecture at Scale for Large Organizations](https://medium.com/swlh/frontend-architecture-in-scale-for-large-organizations-593930ed10cd)
+
 ## Web Design
 
 1. [1,282 inspirational designs, illustrations, and graphic elements from the world’s best designers.](https://dribbble.com/tags/github?page=16&s=popular)
