@@ -3,6 +3,8 @@
 [Writing a High Quality README! 🔥](https://coderarchive.hashnode.dev/writing-a-high-quality-readme)
 
 ## Web Developer
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--GY9Fa-eL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/lya7b81ow94pniln3aif.jpg)
+
 1. [So you want to be a full-stack developer? How to build a full-stack python web](https://speakerdeck.com/pycon2014/so-you-want-to-be-a-full-stack-developer-how-to-build-a-full-stack-python-web-application-by-kate-heddleston?slide=58)
 
 2. [Frontend Architecture at Scale for Large Organizations](https://medium.com/swlh/frontend-architecture-in-scale-for-large-organizations-593930ed10cd)
