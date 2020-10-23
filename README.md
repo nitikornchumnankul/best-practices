@@ -35,3 +35,5 @@
 
 ### Time Management
 [Why Engineers can not estimate time](https://medium.com/swlh/why-engineers-cannot-estimate-time-5639750df419)
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=Delay&space;=&space;\sum_{i=1}^{n}&space;(meanTime_{i}&space;-&space;medianTime_{i})" target="_blank"><img src="https://latex.codecogs.com/png.latex?Delay&space;=&space;\sum_{i=1}^{n}&space;(meanTime_{i}&space;-&space;medianTime_{i})" title="Delay = \sum_{i=1}^{n} (meanTime_{i} - medianTime_{i})" /></a>
