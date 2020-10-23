@@ -41,3 +41,4 @@
 ```
 n = number of task
 ```
+[LaTex Equation Editor](https://www.codecogs.com/latex/eqneditor.php)
