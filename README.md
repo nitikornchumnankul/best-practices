@@ -32,3 +32,6 @@
 
 ### System design
 1. [System Design Cheatsheet](https://gist.github.com/nitikornchumnankul/b9e3fab8272b92093d48dccd536d0a77)
+
+### Time Management
+[Why Engineers can not estimate time](https://medium.com/swlh/why-engineers-cannot-estimate-time-5639750df419)
