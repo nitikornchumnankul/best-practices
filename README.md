@@ -1,6 +1,7 @@
 # best-practices
 ## README
 [Writing a High Quality README! 🔥](https://coderarchive.hashnode.dev/writing-a-high-quality-readme)
+## Web Application Architecture
 
 ## Web Developer
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--GY9Fa-eL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/lya7b81ow94pniln3aif.jpg)
@@ -12,6 +13,9 @@
 ## Web Design
 
 1. [1,282 inspirational designs, illustrations, and graphic elements from the world’s best designers.](https://dribbble.com/tags/github?page=16&s=popular)
+
+## Full Stack
+1. 
 
 ## Contributor
 
@@ -42,3 +46,6 @@
 n = number of task
 ```
 [LaTex Equation Editor](https://www.codecogs.com/latex/eqneditor.php)
+
+## Software Product Manager
+1. [เล่าหมดแบบไม่กั๊ก! Software Product Manager ทำอะไร?](https://medium.com/disciple-life-at-savok/%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A1%E0%B8%94%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%81%E0%B8%B1%E0%B9%8A%E0%B8%81-product-manager-%E0%B8%97%E0%B8%B3%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-a7c4fc88295a)
